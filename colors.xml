@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Ruang Guru Inspired Palette -->
+    <color name="colorPrimary">#00AEEF</color>
+    <color name="colorPrimaryDark">#0088CC</color>
+    <color name="colorAccent">#F99D1C</color>
+    
+    <!-- UI Colors -->
+    <color name="backgroundColor">#F0F4F8</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="textPrimary">#1A2B3C</color>
+    <color name="textSecondary">#5A6B7C</color>
+    
+    <!-- Status Colors -->
+    <color name="correctGreen">#27AE60</color>
+    <color name="wrongRed">#E74C3C</color>
+    <color name="starYellow">#F1C40F</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradStart">#00AEEF</color>
+    <color name="gradEnd">#0072FF</color>
+</resources>
